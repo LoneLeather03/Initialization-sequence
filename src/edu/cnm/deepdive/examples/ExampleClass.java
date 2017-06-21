@@ -26,6 +26,7 @@ public class ExampleClass {
 		System.out.println("Instance initialization block");
 	}
 	
+	
 	public ExampleClass() {
 		this(DEFAULT_VALUE);
 		System.out.println("ExampleClass()");
